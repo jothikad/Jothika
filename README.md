@@ -1,0 +1,2 @@
+# Jothika
+my first repo
